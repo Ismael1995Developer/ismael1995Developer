@@ -1,7 +1,7 @@
 / * --- Ola /// (⌐■_■) /// --- */
 
 ## Sobre mim  ##
-## Olá ##
+## Ismael ##
 Sou Técnico em eletrotécnico e curso analise desenvolvimento de sistemas, trabalho desenvolvendo projetos elétricos e presto suporte a empresas no ramo de elétrica 
 Em diversos sistemas, como solar, automação e outros.
 - Decidi me desenvolver na área de desenvolvimento de software, hoje busco o      desenvolvimento web. 
