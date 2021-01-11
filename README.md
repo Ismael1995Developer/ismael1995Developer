@@ -31,13 +31,9 @@ Em diversos sistemas, como solar, automação e outros.
 + PHP 
 + Phyton 
 + SQL
-+ Node.js
-+ C#
 ## Framework ##
 + Phyton / Django 
 + PHP / Laravel 
-+ Node.Js / Expresso.JS
-+ C# / ASP.NET
 ##
  Minha Principal meta é concluir todos ate o final do ano e me desenvolver o maximo em cada um.
 
