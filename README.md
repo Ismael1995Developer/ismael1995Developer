@@ -19,7 +19,7 @@ Em diversos sistemas, como solar, automação e outros.
 
 -	HTML 5 (concluido)
 -	Css 3 (concluido)
--	JavaScript 5 (em andamento)
+-	JavaScript  (concluido)
 
 -	/// ## Framework ## ///
 
