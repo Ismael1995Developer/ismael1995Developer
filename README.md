@@ -10,24 +10,23 @@ Em diversos sistemas, como solar, automação e outros.
 - O que busco.
 + ## /* ---- Front END ---- */ ##
 
-+ (-- Básico --) concluido 
++ (-- Básico --) 
 + HTML 
 + CSS 
 + Java Script
 
-+	(-- Avançado --) Em andamento 
++	(-- Avançado --) 
 
--	HTML 5 (concluido)
--	Css 3 (concluido)
--	JavaScript  (concluido)
+-	HTML 5
+-	Css 3 
+-	JavaScript  
 
 -	/// ## Framework ## ///
 
--	Css / Bootstrap (Concluido)
--	JavaScript / AngularJS, jQuery, React (Em Andamento)
+-	Css / Bootstrap 
+-	JavaScript / jQuery, React 
 ## 
 ## /* ---- BACK END ---- */ ## 
- (Em Andamento)
 + PHP 
 + Phyton 
 + SQL
@@ -35,7 +34,6 @@ Em diversos sistemas, como solar, automação e outros.
 + Phyton / Django 
 + PHP / Laravel 
 ##
- Minha Principal meta é concluir todos ate o final do ano e me desenvolver o maximo em cada um.
 
 <!--
 **Ismael1995Developer/ismael1995Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
