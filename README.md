@@ -2,10 +2,9 @@
 
 ## Sobre mim  ##
 ## Ismael ##
-Sou Técnico em eletrotécnico e curso analise desenvolvimento de sistemas, trabalho desenvolvendo projetos elétricos e presto suporte a empresas no ramo de elétrica 
+Sou Técnico em eletrotécnico e analista de desenvolvimento de sistemas, trabalho desenvolvendo projetos elétricos e presto suporte a empresas no ramo de elétrica 
 Em diversos sistemas, como solar, automação e outros.
-- Decidi me desenvolver na área de desenvolvimento de software, hoje busco o      desenvolvimento web. 
-## Meu emprego atual é de técnico em eletrônica na GOCIL. ##
+- Decidi me desenvolver na área de desenvolvimento de software, hoje busco o desenvolvimento web. 
 ## Estou em aprendizagem. ##
 - O que busco.
 + ## /* ---- Front END ---- */ ##
@@ -24,7 +23,7 @@ Em diversos sistemas, como solar, automação e outros.
 -	/// ## Framework ## ///
 
 -	Css / Bootstrap 
--	JavaScript / jQuery, React 
+-	JavaScript / jQuery, React, Vue
 ## 
 ## /* ---- BACK END ---- */ ## 
 + PHP 
