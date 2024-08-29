@@ -16,11 +16,13 @@ Em diversos sistemas, como solar, automação e outros.
 -	JavaScript
 -	Phyton
 
+
 -	/// ## Framework ## ///
 
 -	Bootstrap 
 -	React, Vue
--	
+
+  
 ## 
 ## /* ---- BACK END ---- */ ## 
 + PHP 
