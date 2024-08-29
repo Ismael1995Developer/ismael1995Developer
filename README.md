@@ -9,29 +9,26 @@ Em diversos sistemas, como solar, automação e outros.
 - O que busco.
 + ## /* ---- Front END ---- */ ##
 
-+ (-- Básico --) 
-+ HTML 
-+ CSS 
-+ Java Script
-
 +	(-- Avançado --) 
 
 -	HTML 5
 -	Css 3 
--	JavaScript  
+-	JavaScript
+-	Phyton
 
 -	/// ## Framework ## ///
 
--	Css / Bootstrap 
--	JavaScript / jQuery, React, Vue
+-	Bootstrap 
+-	React, Vue
+-	
 ## 
 ## /* ---- BACK END ---- */ ## 
 + PHP 
 + Phyton 
-+ SQL
++ Node.Js
 ## Framework ##
-+ Phyton / Django 
-+ PHP / Laravel 
++ Django 
++ Laravel 
 ##
 
 <!--
